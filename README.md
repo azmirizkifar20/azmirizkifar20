@@ -7,7 +7,6 @@
 - 📚 I'm currently learning Web Back-End & Android Kotlin
 
 ### Languages :
-<br> <br>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azmirizkifar20&layout=compact&theme=default"/>
 
 <br>
