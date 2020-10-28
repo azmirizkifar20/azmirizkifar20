@@ -6,7 +6,7 @@
 - 👨‍🎓 I'm currently a software engineering student at Telkom University 
 - 📚 I'm currently learning Web Back-End & Android Kotlin
 
-**Languages and Tools:**
+### Languages :
 <br> <br>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azmirizkifar20&layout=compact&theme=default"/>
 
