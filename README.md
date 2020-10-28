@@ -1,6 +1,6 @@
 ### Hello I'm [Muhamad Azmi Rizkifar!](https://medium.com/@azmirizkifar20) 🚀
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=azmirizkifar20&show_icons=true&include_all_commits=true&theme=vue-dark" alt="Anurag's github stats"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=azmirizkifar20&show_icons=true&include_all_commits=true&theme=react" alt="Anurag's github stats"/>
 
 - 👨‍💻 I'm a Junior Back-End Engineer and Android-dev
 - 👨‍🎓 I'm currently a software engineering student at Telkom University 
@@ -8,7 +8,7 @@
 
 **Languages and Tools:**
 <br> <br>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azmirizkifar20&layout=compact&theme=vue-dark"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azmirizkifar20&layout=compact&theme=react"/>
 
 <br>
 
