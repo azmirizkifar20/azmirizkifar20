@@ -2,9 +2,7 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=azmirizkifar20&show_icons=true&include_all_commits=true&theme=default" alt="Anurag's github stats"/>
 
-- 👨‍💻 I'm a Back-End Engineer and Android-dev
-- 👨‍🎓 I'm currently an Informatics Engineering student at Telkom University 
-- 📚 I'm currently learning Web Back-End & Android Kotlin
+👨‍💻 I'm a Back-End Engineer at PT Pitjarus Teknologi
 
 ### Languages :
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azmirizkifar20&layout=compact&theme=default"/>
